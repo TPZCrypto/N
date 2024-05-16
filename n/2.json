@@ -1,0 +1,27 @@
+{
+  "name": "Doge 2",
+  "description": "Just a doge.",
+  "image": "https://i.imgur.com/hsQJUEY.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Seed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seed"
+    }
+  ]
+}
