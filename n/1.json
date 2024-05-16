@@ -1,0 +1,27 @@
+{
+  "name": "Dog 1",
+  "description": "Just a regular dog.",
+  "image": "https://i.imgur.com/qnFuZvy.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Dog?",
+      "value": "yes"
+    },
+    {
+      "trait_type": "Cat",
+      "value": "No"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No"
+    },
+    {
+      "trait_type": "Running?",
+      "value": "yes"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yes"
+    }
+  ]
+}
